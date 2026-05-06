@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Owais Raza 👋
 
-<!--
-**Owaisdev0421/Owaisdev0421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior React Native Developer** with 4+ years of experience building cross-platform mobile apps for iOS and Android.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [or-portfoilo.vercel.app](https://or-portfoilo.vercel.app/)
+💼 **LinkedIn:** [linkedin.com/in/owais-raza-52a6a1182](https://www.linkedin.com/in/owais-raza-52a6a1182/)
+📱 **WhatsApp:** [+92 339 4027900](https://wa.me/923394027900)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+React Native · TypeScript · JavaScript · Redux Toolkit · React · Firebase · REST APIs
+
+## 💡 What I do
+- Cross-platform mobile app development (iOS + Android)
+- Fintech, social, and field-management apps
+- Performance optimization & native module integration
+
+📍 Available for freelance & full-time opportunities.
